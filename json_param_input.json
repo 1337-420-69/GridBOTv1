@@ -1,0 +1,8 @@
+{
+	"param_symbol": "BTCUSDT",
+	"param_target_orders": 12,
+	"param_spread_percent": 0.16,
+	"param_order_amount": 0.036,
+	"param_order_lev": 2,
+	"param_margin_type": "ISOLATED"
+}
